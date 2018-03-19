@@ -1,0 +1,48 @@
+serverVersion:118 connectionTime:b'20180319 19:22:15 HKT'
+initilaizing run... please wait
+setting nextValidOrderId:  1
+Error. Id:  -1  Code:  2106  Msg:  HMDS data farm connection is OK:ilhmds
+RealTimeBars.  1 : time  1521458530 , open:  2739.75 , high:  2739.75 , low:  2739.75 , close:  2739.75 , volume:  74 , wap:  2739.75 , count:  13
+RealTimeBars.  1 : time  1521458535 , open:  2740.0 , high:  2740.0 , low:  2739.75 , close:  2740.0 , volume:  47 , wap:  2740.0 , count:  9
+RealTimeBars.  1 : time  1521458540 , open:  2740.0 , high:  2740.0 , low:  2740.0 , close:  2740.0 , volume:  0 , wap:  2740.0 , count:  0
+RealTimeBars.  1 : time  1521458545 , open:  2739.75 , high:  2739.75 , low:  2739.75 , close:  2739.75 , volume:  30 , wap:  2739.75 , count:  12
+RealTimeBars.  1 : time  1521458550 , open:  2739.75 , high:  2739.75 , low:  2739.75 , close:  2739.75 , volume:  5 , wap:  2739.75 , count:  1
+RealTimeBars.  1 : time  1521458555 , open:  2739.75 , high:  2739.75 , low:  2739.75 , close:  2739.75 , volume:  0 , wap:  2739.75 , count:  0
+RealTimeBars.  1 : time  1521458560 , open:  2739.75 , high:  2739.75 , low:  2739.75 , close:  2739.75 , volume:  0 , wap:  2739.75 , count:  0
+RealTimeBars.  1 : time  1521458565 , open:  2740.0 , high:  2740.0 , low:  2740.0 , close:  2740.0 , volume:  1 , wap:  2740.0 , count:  1
+RealTimeBars.  1 : time  1521458570 , open:  2739.75 , high:  2740.0 , low:  2739.75 , close:  2739.75 , volume:  51 , wap:  2739.75 , count:  15
+RealTimeBars.  1 : time  1521458575 , open:  2740.0 , high:  2740.0 , low:  2740.0 , close:  2740.0 , volume:  13 , wap:  2740.0 , count:  7
+RealTimeBars.  1 : time  1521458580 , open:  2740.0 , high:  2740.0 , low:  2739.75 , close:  2739.75 , volume:  2 , wap:  2740.0 , count:  2
+RealTimeBars.  1 : time  1521458585 , open:  2739.75 , high:  2739.75 , low:  2739.75 , close:  2739.75 , volume:  1 , wap:  2739.75 , count:  1
+RealTimeBars.  1 : time  1521458590 , open:  2739.75 , high:  2739.75 , low:  2739.75 , close:  2739.75 , volume:  12 , wap:  2739.75 , count:  5
+RealTimeBars.  1 : time  1521458595 , open:  2739.75 , high:  2739.75 , low:  2739.75 , close:  2739.75 , volume:  2 , wap:  2739.75 , count:  2
+RealTimeBars.  1 : time  1521458600 , open:  2739.75 , high:  2739.75 , low:  2739.75 , close:  2739.75 , volume:  0 , wap:  2739.75 , count:  0
+RealTimeBars.  1 : time  1521458605 , open:  2739.75 , high:  2739.75 , low:  2739.75 , close:  2739.75 , volume:  3 , wap:  2739.75 , count:  1
+RealTimeBars.  1 : time  1521458610 , open:  2739.5 , high:  2739.75 , low:  2739.5 , close:  2739.75 , volume:  59 , wap:  2739.5 , count:  17
+RealTimeBars.  1 : time  1521458615 , open:  2739.75 , high:  2739.75 , low:  2739.75 , close:  2739.75 , volume:  0 , wap:  2739.75 , count:  0
+RealTimeBars.  1 : time  1521458620 , open:  2739.5 , high:  2739.5 , low:  2739.5 , close:  2739.5 , volume:  37 , wap:  2739.5 , count:  7
+RealTimeBars.  1 : time  1521458625 , open:  2739.5 , high:  2739.5 , low:  2739.5 , close:  2739.5 , volume:  1 , wap:  2739.5 , count:  1
+RealTimeBars.  1 : time  1521458630 , open:  2739.5 , high:  2739.5 , low:  2739.5 , close:  2739.5 , volume:  23 , wap:  2739.5 , count:  7
+RealTimeBars.  1 : time  1521458635 , open:  2739.75 , high:  2739.75 , low:  2739.75 , close:  2739.75 , volume:  19 , wap:  2739.75 , count:  12
+RealTimeBars.  1 : time  1521458640 , open:  2739.75 , high:  2740.0 , low:  2739.75 , close:  2740.0 , volume:  5 , wap:  2739.75 , count:  3
+RealTimeBars.  1 : time  1521458645 , open:  2740.0 , high:  2740.0 , low:  2740.0 , close:  2740.0 , volume:  68 , wap:  2740.0 , count:  2
+RealTimeBars.  1 : time  1521458650 , open:  2740.0 , high:  2740.0 , low:  2740.0 , close:  2740.0 , volume:  0 , wap:  2740.0 , count:  0
+RealTimeBars.  1 : time  1521458655 , open:  2740.0 , high:  2740.0 , low:  2740.0 , close:  2740.0 , volume:  0 , wap:  2740.0 , count:  0
+RealTimeBars.  1 : time  1521458660 , open:  2740.0 , high:  2740.0 , low:  2740.0 , close:  2740.0 , volume:  1 , wap:  2740.0 , count:  1
+RealTimeBars.  1 : time  1521458665 , open:  2740.0 , high:  2740.0 , low:  2740.0 , close:  2740.0 , volume:  0 , wap:  2740.0 , count:  0
+RealTimeBars.  1 : time  1521458670 , open:  2740.0 , high:  2740.0 , low:  2740.0 , close:  2740.0 , volume:  0 , wap:  2740.0 , count:  0
+RealTimeBars.  1 : time  1521458675 , open:  2740.25 , high:  2740.25 , low:  2740.25 , close:  2740.25 , volume:  4 , wap:  2740.25 , count:  4
+RealTimeBars.  1 : time  1521458680 , open:  2740.25 , high:  2740.25 , low:  2740.25 , close:  2740.25 , volume:  32 , wap:  2740.25 , count:  4
+RealTimeBars.  1 : time  1521458685 , open:  2740.25 , high:  2740.5 , low:  2740.25 , close:  2740.5 , volume:  26 , wap:  2740.5 , count:  14
+RealTimeBars.  1 : time  1521458690 , open:  2740.5 , high:  2740.75 , low:  2740.5 , close:  2740.75 , volume:  37 , wap:  2740.5 , count:  18
+RealTimeBars.  1 : time  1521458695 , open:  2740.75 , high:  2741.0 , low:  2740.75 , close:  2740.75 , volume:  37 , wap:  2740.75 , count:  18
+RealTimeBars.  1 : time  1521458700 , open:  2741.0 , high:  2741.0 , low:  2740.75 , close:  2741.0 , volume:  84 , wap:  2741.0 , count:  15
+RealTimeBars.  1 : time  1521458705 , open:  2740.75 , high:  2741.0 , low:  2740.75 , close:  2741.0 , volume:  5 , wap:  2740.75 , count:  2
+RealTimeBars.  1 : time  1521458710 , open:  2741.0 , high:  2741.0 , low:  2740.75 , close:  2741.0 , volume:  11 , wap:  2741.0 , count:  3
+RealTimeBars.  1 : time  1521458715 , open:  2741.0 , high:  2741.0 , low:  2740.75 , close:  2740.75 , volume:  6 , wap:  2741.0 , count:  3
+RealTimeBars.  1 : time  1521458720 , open:  2740.75 , high:  2740.75 , low:  2740.75 , close:  2740.75 , volume:  0 , wap:  2740.75 , count:  0
+RealTimeBars.  1 : time  1521458725 , open:  2740.75 , high:  2740.75 , low:  2740.75 , close:  2740.75 , volume:  17 , wap:  2740.75 , count:  4
+RealTimeBars.  1 : time  1521458730 , open:  2740.75 , high:  2740.75 , low:  2740.75 , close:  2740.75 , volume:  14 , wap:  2740.75 , count:  6
+RealTimeBars.  1 : time  1521458735 , open:  2740.5 , high:  2740.5 , low:  2740.5 , close:  2740.5 , volume:  1 , wap:  2740.5 , count:  1
+RealTimeBars.  1 : time  1521458740 , open:  2740.5 , high:  2740.5 , low:  2740.25 , close:  2740.25 , volume:  38 , wap:  2740.5 , count:  5
+RealTimeBars.  1 : time  1521458745 , open:  2740.25 , high:  2740.25 , low:  2740.25 , close:  2740.25 , volume:  0 , wap:  2740.25 , count:  0
