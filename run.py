@@ -51,14 +51,13 @@ class TestApp(wrapper.EWrapper, EClient):
     
     @iswrapper
     def error(self, reqId:TickerId, errorCode:int, errorString:str):
-        if errorCode == 2016 :
-            print("ashley is bae")
         print("Error. Id: " , reqId, " Code: " , errorCode , " Msg: " , errorString)
             
     @iswrapper
     def realtimeBar(self, reqId:int, time:int, open:float, high:float, low:float, close:float, volume:int, wap:float, count:int):
         super().realtimeBar(reqId, time, open, high, low, close, volume, wap, count)
-        print("RealTimeBars. ", reqId, ": time ", time, ", open: ",open, ", high: ", high, ", low: ", low, ", close: ", close, ", volume: ", volume, ", wap: ", wap, ", count: ", count)
+        #print("RealTimeBars. ", reqId, ": time ", time, ", open: ",open, ", high: ", high, ", low: ", low, ", close: ", close, ", volume: ", volume, ", wap: ", wap, ", count: ", count)
+        print("ESH8 - " " @", time, ", open: ",open, ", high: ", high, ", low: ", low, ", close: ", close, ", volume: ", volume, ", wap: ", wap, ", count: ", count)
 
 def main():
     app = TestApp()
